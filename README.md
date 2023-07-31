@@ -1,5 +1,5 @@
 # first-gpt-response
-A response I got from GPT-3 a while back while training it with data from sai42's community.
+A response I got from GPT-3 a while back while training it with data from sai42's community. This was one of the first response thag I got back from GPT-3 fine tunning based on an interesting community interested in science & science-fiction.
 
 # **The AI explores the community.**
 
